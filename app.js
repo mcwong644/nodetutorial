@@ -1,4 +1,4 @@
-// ** start at 1:49 in https://youtu.be/Oe421EPjeBE **
+// ** start at 1:49 in https://youtu.be/Oe421EPjeBE ** stop 2:28
 // ** npm **
 // in command prompt or terminal
 // npm init -y (initialize and create package.json)
