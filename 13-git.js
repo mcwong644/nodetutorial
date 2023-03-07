@@ -16,3 +16,8 @@
 // git push -u origin main
 //******* git pull *****/
 // git pull https://github.com/mcwong644/nodetutorial.git
+
+// git checkout -b new (create new branch) or git checkout new (if created)
+// git pull origin new
+// git checkout main (switch back to main)
+// git merge new (merge master with new)
