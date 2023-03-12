@@ -6,6 +6,18 @@
 // npm -g lodash (global)]
 // npm i nodemon -D (dependency), then npm start will execute script in package.json
 // or npm run dev 
+// npm install -g nodemon for global install
+// change package.json - scripts to "start" : "node app.js" and add "dev": "nodemon app.js"
+// npm run dev
+// npm start will execute app.js
+// npm uninstall <package name>
+// npm install - will reinstall all from package.json
+
+
+
+
+// npm install -g nodemon (global install) done 12/03/23
+
 const _ = require('lodash');
 
 const items=[1,[2,[3,4]]];
