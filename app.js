@@ -12,6 +12,7 @@
 // npm install - will reinstall all from package.json
 
 const _ = require('lodash');
+// require('nodemon')
 
 const items=[1,[2,[3,4]]];
 const newItems= _.flattenDeep(items);
